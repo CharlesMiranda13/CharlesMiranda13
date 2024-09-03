@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @CharlesMiranda
-- 👀 I’m interested in programming
 - 🌱 I’m currently a college student
 
 <!---
