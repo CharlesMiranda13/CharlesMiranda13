@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Charles Kit T. Miranda
 
 BS Information Systems
+
 Aspiring QA Engineer
 
 ---
