@@ -30,7 +30,7 @@ I also have a background in web development, which helps me better understand ho
 
 * GitHub: https://github.com/CharlesMiranda13
 * LinkedIn: www.linkedin.com/in/charles-kit-miranda
-* https://www.linkedin.com/in/charles-kit-miranda/
+* https://charlesmiranda-portfolio.vercel.app/
 
 
 ⭐ Aspiring to build reliable and high-quality software through effective testing.
